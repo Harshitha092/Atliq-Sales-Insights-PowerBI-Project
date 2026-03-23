@@ -108,4 +108,21 @@ Initial exploratory analysis was performed in MySQL
 ---
 
 ## 🚀 Outcome
-This dashboard enables Atliq’s leadership to move from intuition-based decisions to **insight-driven strategy**, improving cost control, profitability, and regional focus.
+
+This dashboard replaced fragmented Excel reporting with a single, interactive analytics solution — enabling Atliq's leadership to identify a **19.6% YoY revenue decline**, isolate **West Zone** as the highest-risk market, and shift from intuition-based decisions to data-driven recovery strategy. Recurring reporting effort reduced by **~20%**.
+
+---
+
+## 📸 Dashboard Preview
+
+### Overview
+![Dashboard Overview](Power%20BI/Visuals/dashboard_overview.PNG)
+
+### Profit View
+![Profit View](Power%20BI/Visuals/ProfitView.PNG)
+
+### Detailed View
+![Detailed View](Power%20BI/Visuals/DetailedView.PNG)
+
+### Glossary
+![Glossary](Power%20BI/Visuals/glossary.PNG)
