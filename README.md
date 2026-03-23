@@ -126,3 +126,8 @@ This dashboard replaced fragmented Excel reporting with a single, interactive an
 
 ### Glossary
 ![Glossary](Power%20BI/Visuals/glossary.PNG)
+
+## 👩‍💻 Author  
+**Harshitha Salian**  
+Analytics Professional | SQL · Power BI · Excel · Python  
+📍 Dubai, UAE | [LinkedIn](https://www.linkedin.com/in/salianharshitha/) | [GitHub](https://github.com/Harshitha092)
